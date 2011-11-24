@@ -1,0 +1,12 @@
+[submodule "lib/Symfony/Component/Validator"]
+	path = lib/Symfony/Component/Validator
+	url = git://github.com/symfony/Validator.git
+[submodule "lib/Symfony/Component/Translation"]
+	path = lib/Symfony/Component/Translation
+	url = git://github.com/symfony/Translation.git
+[submodule "lib/Symfony/Component/Config"]
+	path = lib/Symfony/Component/Config
+	url = git://github.com/symfony/Config.git
+[submodule "lib/Symfony/Component/ClassLoader"]
+	path = lib/Symfony/Component/ClassLoader
+	url = git://github.com/symfony/ClassLoader.git
