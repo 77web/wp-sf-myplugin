@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: MyPlugin
-Description: SymfonyComponentを使ったWPプラグインのテスト
+Description: SymfonyComponentを使ったWPプラグインのサンプル
 Auther: Hiromi Hishida <info@77-web.com>
 */
 
